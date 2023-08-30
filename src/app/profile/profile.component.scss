@@ -1,5 +1,38 @@
 .container {
-    display: inline-block;
-    margin: 0px auto;
-    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+}
+
+h5 {
+    color: white;
+    padding-top: 20px;
+}
+
+h6 {
+    color: #94A3B8;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#socialMediaLine {
+    padding-top: 35px;
+}
+
+.col-md-7{
+    color: #94A3B8;
+    padding-left: 5%;
+}
+
+::selection{
+        color: #124e4a;
+        background: #5eead4;
 }
